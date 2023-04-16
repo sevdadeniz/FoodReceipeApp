@@ -146,7 +146,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                                   email: emailController.text,
                                   password: passwordController.text)
                               .then((value) {
-                            print("Created New Accounted");
+                            print("Created New Accounted!");
                             Navigator.push(
                               context,
                               MaterialPageRoute(
