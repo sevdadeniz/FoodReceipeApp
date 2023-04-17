@@ -160,7 +160,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
                           Icons.arrow_back,
                         ),
                         label: const Text("Sign up"),
-                        //.........
                       ),
                     ),
                   ),
